@@ -1,2 +1,6 @@
 # Shark-Attacks
 Week 2 mini project
+
+This a quest for the Data Analytics course in Ironhack, working with a global shark attack file(https://www.sharkattackfile.net/incidentlog.htm).
+
+The code presents a cleaned and transformed version of the database and it was later utilized to gain confirm/deny some hypothesis that were previously established.
