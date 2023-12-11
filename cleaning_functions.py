@@ -41,6 +41,9 @@ def replace_with_dict(cell,my_replace_dict):\
     return cell
 
 def whole_pipeline(df):
+    '''
+    This function cleans the entire dataframe
+    '''
     df = clean_rows_columns(df)
     df = clean_column_names(df)
     df = clean_invalid_values(df)
